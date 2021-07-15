@@ -4,9 +4,10 @@ UI Made with Guna.
 
 # Features
 + 2 Methods for Conversion
-+ File Compression
-+ Hide Window
-+ Select EXE icon
++ Obfuscate File (coming soon)
++ Compress File
++ Hide Console
++ Select icon for EXE
 
 # Dependencies
 All you need to run the program is Guna.UI2.dll in the current directory.                                                                                       
