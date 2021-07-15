@@ -1,6 +1,8 @@
 # Bat2Exe
 Clean UI for converting your batch files into executables - with multiple options.                                                                              
-UI Made with Guna.
+UI Made with Guna.                                                                                                                                              
+Version: 1.1                                                                                                                                                    
+Last Updated: 7/15/2021
 
 # Features
 + 2 Methods for Conversion
