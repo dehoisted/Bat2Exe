@@ -106,7 +106,7 @@ namespace Bat2Exe
             }
         }
 
-        // ICO File Button
+        // ICO File Event
         private void guna2CheckBox4_CheckedChanged(object sender, EventArgs e)
         {
             if (guna2CheckBox4.Checked)
