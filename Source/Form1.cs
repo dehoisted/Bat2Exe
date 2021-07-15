@@ -251,7 +251,7 @@ namespace Bat2Exe
                 switch (File.Exists(temp1 + "_bytepressed.exe"))
                 {
                     case true:
-                        listBox1.Items.Add("Finished compressing file. Output: " + temp1);
+                        listBox1.Items.Add("Finished compressing file. Output: " + temp1 + "_bytepressed.exe");
                         MessageBox.Show("Generated file has been compressed.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         break;
 
