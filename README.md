@@ -9,8 +9,9 @@ UI Made with Guna.
 + Select EXE icon
 
 # Dependencies
-All you need to run the program is Guna.UI2.dll in the current directory.
-Extra dependency is bytepress, which is used for compressing your generated EXE file.
+All you need to run the program is Guna.UI2.dll in the current directory.                                                                                       
+
+Bytepress is used if you want to compress your generated EXE file. (https://github.com/roachadam/bytepress)
 
 # Images
 ![image](https://user-images.githubusercontent.com/75084509/125828899-92fd2208-bb88-4b6b-a57d-1a2f38d2b9b4.png)
