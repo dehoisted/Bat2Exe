@@ -2,8 +2,8 @@
 Clean UI for converting your batch files into executables (.net/csharp) - with multiple options.                                                                          
 User interface made with Guna.                                                                                                                                  
 
-Version: 1.1                                                                                                                                                    
-Last Updated: 7/15/2021
+Version: 1.2                                                                                                                                                    
+Last Updated: 7/12/2021
 
 # Features
 + 2 Methods for Conversion
@@ -19,5 +19,5 @@ Bytepress is used for when you want to compress your generated EXE file.
 + Bytepress: https://github.com/roachadam/bytepress
 
 # Images
-![image](https://user-images.githubusercontent.com/75084509/125828899-92fd2208-bb88-4b6b-a57d-1a2f38d2b9b4.png)
+![image](https://user-images.githubusercontent.com/75084509/126585025-52e03a42-a4ea-4cc5-a206-7f12faddfda4.png)
 ![image](https://user-images.githubusercontent.com/75084509/125828959-2339436b-99ab-43c4-91a0-0d629b1a74b5.png)
