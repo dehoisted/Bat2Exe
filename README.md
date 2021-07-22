@@ -3,7 +3,7 @@ Clean UI for converting your batch files into executables (.net/csharp) - with m
 User interface made with Guna.                                                                                                                                  
 
 Version: 1.2                                                                                                                                                    
-Last Updated: 7/12/2021
+Last Updated: 7/21/2021
 
 # Features
 + 2 Methods for Conversion
