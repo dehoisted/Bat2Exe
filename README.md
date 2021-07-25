@@ -1,6 +1,6 @@
 # Bat2Exe
-Clean UI for converting your batch files into executables (.net/csharp) - with multiple options.                                                                          
-User interface made with Guna.                                                                                                                                  
+User interface for converting your batch files into executables (.net/csharp) - with multiple options.                                                                          
+UI made with Guna.                                                                                                                                  
 
 Version: 1.2                                                                                                                                                    
 Last Updated: 7/21/2021
