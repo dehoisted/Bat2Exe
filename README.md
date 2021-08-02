@@ -18,7 +18,7 @@ If the response is the current version, then there are no updates, if the respon
 # Dependencies
 All you need to run the program is Guna.UI2.dll in the current directory.                                                                                     
 Bytepress is used for when you want to compress your generated EXE file.
-+ Guna UI2: https://gunaframework.com                                                               
++ Guna: https://gunaframework.com                                                               
 + Bytepress: https://github.com/roachadam/bytepress
 
 # Images
