@@ -2,12 +2,11 @@
 Simple user interface for converting your batch files into executables (.net/csharp) - with multiple options.                                                                          
 UI made with Guna.                                                                                                                                  
 
-Version: 1.2                                                                                                                                                    
-Last Updated: 7/21/2021
+Version: 1.3                                                                                                                                                    
+Last Updated: 8/1/2021
 
 # Features
 + 2 Methods for Conversion
-+ Obfuscate File (coming soon)
 + Compress File
 + Hide Console
 + Select icon for EXE
