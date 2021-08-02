@@ -1,1 +1,1 @@
-All files here are needed to run Bat2Exe
+All files here are needed to run Bat2Exe, don't delete them
