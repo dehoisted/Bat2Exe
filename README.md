@@ -6,10 +6,10 @@ Version: 1.3
 Last Updated: 8/1/2021
 
 # Features
-+ 2 Methods for Conversion
 + Compress File
 + Hide Console
 + Select icon for EXE
++ Two methods for conversion
 
 # Updates
 Link for checking for updates: https://pastebin.com/raw/DS0hgb0F                                                                                               
