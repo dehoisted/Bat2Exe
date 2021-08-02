@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.ComponentModel;
 using System.Windows.Forms;
 using System.CodeDom.Compiler;
@@ -11,7 +11,7 @@ namespace Bat2Exe
     public partial class Bat2Exe : Form
     {
         public static readonly string github_link = "https://github.com/dehoisted", my_telegram = "https://t.me/Constex", updates_link = "https://pastebin.com/raw/DS0hgb0F";
-        public static readonly string program_version = "1.2", next_version = "1.3", last_updated = "7/21/2021";
+        public const string program_version = "1.3", next_version = "1.4", last_updated = "8/1/2021";
         private static string batch_filepath = "", icon_filepath = "", compression_method = "", OutputP, SourceP, LogP;
         private static bool bat_file_entered = false;
 
@@ -27,28 +27,21 @@ namespace Bat2Exe
             OutputP = Directory.GetCurrentDirectory() + "\\Output";
             switch (Directory.Exists(OutputP))
             {
-                case false:
-                    Directory.CreateDirectory("Output");
-                    break;
+                case false: Directory.CreateDirectory("Output"); break;
             }
             OutputP += "\\";
 
             SourceP = Directory.GetCurrentDirectory() + "\\Source";
             switch (Directory.Exists(SourceP))
             {
-                case false:
-                    Directory.CreateDirectory("Source");
-                    break;
+                case false: Directory.CreateDirectory("Source"); break;
             }
 
             LogP = Directory.GetCurrentDirectory() + "\\Log";
             switch (Directory.Exists(LogP))
             {
-                case false:
-                    Directory.CreateDirectory("Log");
-                    break;
+                case false: Directory.CreateDirectory("Log"); break;
             }
-
             LogP += "\\log.txt";
         }
 
@@ -137,9 +130,7 @@ namespace Bat2Exe
                         }
 
                         else
-                        {
                             MessageBox.Show("Selected as icon file.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        }
                         break;
                 }
             }
@@ -185,9 +176,7 @@ namespace Bat2Exe
 
                 default:
                     if (batch_filepath == "")
-                    {
                         FileWarning();
-                    }
 
                     else
                     {
@@ -195,9 +184,7 @@ namespace Bat2Exe
                         listBox1.Items.Add("Selected batch file: " + batch_filepath);
 
                         if (guna2CheckBox4.Checked)
-                        {
                             listBox1.Items.Add("Selected icon file: " + icon_filepath);
-                        }
                     }
                     break;
             }
@@ -346,14 +333,10 @@ namespace Bat2Exe
                 progressBar1.Value = 50;
 
                 if (guna2CheckBox2.Checked)
-                {
                     CMethods.M1(temp_out, batch_cmd, guna2CheckBox1.Checked);
-                }
 
                 if (guna2CheckBox3.Checked)
-                {
                     CMethods.M2(temp_out, batch_cmd, guna2CheckBox1.Checked);
-                }
 
                 listBox1.Items.Add("Parsing batch code...");
                 progressBar1.Value = 75;
@@ -447,12 +430,11 @@ namespace Bat2Exe
         {
             switch (UpdateResponse())
             {
-                case "0":
-                    MessageBox.Show("No new updates available.", "Update Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                case program_version:
+                    MessageBox.Show("No new updates available.", "Updates Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     break;
-
-                case "1":
-                    var q1 = MessageBox.Show("New update is available! (Version " + next_version + ")\n\nWould you like to view the latest release?", "Update Message", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                case next_version:
+                    var q1 = MessageBox.Show("New update is available! (" + next_version + ")\n\nWould you like to view the latest release?", "Updates Message", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                     switch (q1)
                     {
                         case DialogResult.Yes:
