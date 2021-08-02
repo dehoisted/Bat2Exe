@@ -12,6 +12,10 @@ Last Updated: 7/21/2021
 + Hide Console
 + Select icon for EXE
 
+# Updates
+Link for checking for updates: https://pastebin.com/raw/DS0hgb0F
+If the response is the current version, then there are no updates, if the response is the next version, then there is an update.
+
 # Dependencies
 All you need to run the program is Guna.UI2.dll in the current directory.                                                                                     
 Bytepress is used for when you want to compress your generated EXE file.
