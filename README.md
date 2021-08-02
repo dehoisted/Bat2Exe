@@ -13,8 +13,7 @@ Last Updated: 7/21/2021
 + Select icon for EXE
 
 # Updates
-Link for checking for updates: https://pastebin.com/raw/DS0hgb0F                                                                                                
-
+Link for checking for updates: https://pastebin.com/raw/DS0hgb0F                                                                                               
 If the response is the current version, then there are no updates, if the response is the next version, then there is an update.
 
 # Dependencies
