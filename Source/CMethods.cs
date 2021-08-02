@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 
 namespace Bat2Exe
 {
@@ -30,7 +30,6 @@ namespace Bat2Exe
         public static void Main()
         {
             FreeConsole();
-            System.Threading.Thread.Sleep(250);
             string batch_fname = GetPath();
             using (StreamWriter writer = new StreamWriter(batch_fname))  
             {
