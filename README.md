@@ -20,8 +20,8 @@ All you need to build Bat2Exe yourself is GunaUI2. (possible to install via nuge
 
 Guna is used for most of the user interface.                                                                                     
 Bytepress is used for when you want to compress your generated EXE file.
-+ Guna: https://gunaframework.com                                                               
-+ Bytepress: https://github.com/roachadam/bytepress
++ Guna: https://www.nuget.org/packages/Guna.UI2.WinForms/                                                               
++ Bytepress: https://github.com/roachadam/bytepress/releases/tag/v1.0.0.2
 
 # Images
 ![image](https://user-images.githubusercontent.com/75084509/126585025-52e03a42-a4ea-4cc5-a206-7f12faddfda4.png)
