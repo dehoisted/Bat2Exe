@@ -12,7 +12,7 @@ Last Release: 8/1/2021
 + Two different methods for conversion
 
 # Updates
-Link for checking for updates is [here](https://pastebin.com/raw/DS0hgb0F)                                                                                               
+Link for checking for updates can be found [here](https://pastebin.com/raw/DS0hgb0F).                                                                                               
 If the response is the current version, then there are no updates, if the response is the next version, then there is an update.
 
 # Dependencies
