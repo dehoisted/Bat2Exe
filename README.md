@@ -3,7 +3,7 @@ User interface for converting your batch files into windows executables (.NET) -
 UI made with Guna.                                                                                                                                  
 
 Version: 1.3                                                                                                                                                    
-Last Updated: 8/1/2021
+Last Release: 8/1/2021
 
 # Features
 + Compress File
@@ -12,7 +12,7 @@ Last Updated: 8/1/2021
 + Two different methods for conversion
 
 # Updates
-Link for checking for updates: https://pastebin.com/raw/DS0hgb0F                                                                                               
+Link for checking for updates is [here](https://pastebin.com/raw/DS0hgb0F)                                                                                               
 If the response is the current version, then there are no updates, if the response is the next version, then there is an update.
 
 # Dependencies
