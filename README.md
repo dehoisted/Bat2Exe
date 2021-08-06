@@ -16,7 +16,9 @@ Link for checking for updates is [here](https://pastebin.com/raw/DS0hgb0F)
 If the response is the current version, then there are no updates, if the response is the next version, then there is an update.
 
 # Dependencies
-All you need to run the program is Guna.UI2.dll in the current directory.                                                                                     
+All you need to build Bat2Exe yourself is GunaUI2. (possible to install via nuget package manager)
+
+Guna is used for most of the user interface.                                                                                     
 Bytepress is used for when you want to compress your generated EXE file.
 + Guna: https://gunaframework.com                                                               
 + Bytepress: https://github.com/roachadam/bytepress
