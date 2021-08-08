@@ -1,5 +1,5 @@
 # Bat2Exe
-User interface for converting your batch files into windows executables - with multiple options.                                                             
+Windows only user interface for converting your batch files into executables - with multiple options.                                                             
 Current version: 1.3                                                                                                                                                                                                      
 
 The latest release has all the dependencies you need, including the Bat2Exe executable.                                                                          
