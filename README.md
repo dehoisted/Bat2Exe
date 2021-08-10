@@ -2,7 +2,7 @@
 Windows user interface for converting your batch files into executables.                                                                                                                                                                                                                                                                   
 
 The latest release has all the dependencies you need, including the Bat2Exe executable.                                                                          
-Latest release can be found and downloaded [here.](https://github.com/dehoisted/Bat2Exe/releases/tag/1.3)                                                                                                                                                   
+Latest release can be found and downloaded [here](https://github.com/dehoisted/Bat2Exe/releases/tag/1.3).                                                                                                                                                   
 
 Current version: 1.3
 
