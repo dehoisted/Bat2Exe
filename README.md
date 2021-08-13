@@ -13,7 +13,8 @@ Current version: 1.3
 + Two different methods for conversion
 
 ## Updates
-Link for checking for updates can be found [here](https://pastebin.com/raw/DS0hgb0F).                                                                                               
+Link for checking for updates can be found [here](https://pastebin.com/raw/DS0hgb0F).
+                                                                                               
 If the HTTP response is the current program version, then there are no updates, if the response is the next version, then there is an update available.
 
 ## Dependencies
