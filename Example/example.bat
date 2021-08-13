@@ -7,7 +7,7 @@ rem example.bat
 : For suggestions, contact be on telegram: https://t.me/Constex
 : If you get any compilation errors, make a new issue at https://github.com/dehoisted/Bat2Exe/issues
 : Huge batch files may fail.
-: Note: comments can be viewed if the exe is decompiled.
+: Note: comments can be viewed if the exe is decompiled, and antiviruses may flag the generated EXE file.
 
 @echo off
 cls
