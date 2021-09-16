@@ -13,6 +13,13 @@ Current version: 1.3
 + Two different methods for conversion
 
 ## Updates
+**Update Log**
+```
++ Updated UI
++ Fixed update checking
++ Improved batch parsing
++ Added batch obfuscation (2 methods)
+```
 Link for checking for updates can be found [here](https://pastebin.com/raw/DS0hgb0F).
                                                                                                
 If the HTTP response is the current program version, then there are no updates, if the response is the next version, then there is an update available.
@@ -28,8 +35,9 @@ Bytepress is used for when you want to compress your generated EXE file.
 ## Images
 When first opening:
 
-![image](https://user-images.githubusercontent.com/75084509/126585025-52e03a42-a4ea-4cc5-a206-7f12faddfda4.png)
+![image](https://user-images.githubusercontent.com/75084509/133696989-b6670012-0408-465e-b3a2-87ac7c000ed0.png)
 
-When selecting batch file and pressing "Compile File":
 
-![image](https://user-images.githubusercontent.com/75084509/128647783-23090f0f-9bc1-4d3f-bbbb-272be13ae5f0.png)
+When selecting batch file & some options then pressing "Compile File":
+
+![image](https://user-images.githubusercontent.com/75084509/133697242-e4d905cc-adeb-4c1c-8d10-93325cb29803.png)
