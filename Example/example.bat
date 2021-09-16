@@ -11,7 +11,7 @@ rem example.bat
 
 @echo off
 cls
-title Bat2Exe Example
+title Bat2ExeV2 Example
 echo Hello
 set /p text=Enter text: 
 echo Text entered = %text%
