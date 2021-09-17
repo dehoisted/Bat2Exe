@@ -12,17 +12,14 @@ Current version: 2.0
 + Batch obfuscation (2 methods)
 + Hide console when EXE opened
 + Select icon for EXE
-## Updates
-**Update Log**
+## Update Log
+9/16/2021
 ```
 + Updated UI
 + Fixed update checking
 + Improved batch parsing
 + Added batch obfuscation (2 methods)
 ```
-Link for checking for updates can be found [here](https://pastebin.com/raw/DS0hgb0F).
-                                                                                               
-If the HTTP response is the current program version, then there are no updates, if the response is the next version, then there is an update available.
 
 ## Dependencies
 All Bat2Exe needs is .NET Framework 4, and GunaUI2.
