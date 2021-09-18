@@ -6,12 +6,11 @@ rem example.bat
 : Example batch file for converting it into an exe.
 : For suggestions, contact be on telegram: https://t.me/Constex
 : If you get any compilation errors, make a new issue at https://github.com/dehoisted/Bat2Exe/issues
-: Huge batch files may fail.
-: Note: comments can be viewed if the exe is decompiled, and antiviruses may flag the generated EXE file.
+: Note: comments can be viewed if the exe is decompiled, and antiviruses may flag the generated EXE file as a virus.
 
 @echo off
 cls
-title Bat2ExeV2 Example
+title Bat2Exe Example
 echo Hello
 set /p text=Enter text: 
 echo Text entered = %text%
