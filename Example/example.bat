@@ -18,4 +18,3 @@ pause
 start https://github.com/dehoisted/Bat2Exe
 echo Brought you to Bat2Exe github page.
 pause
-echo Bye
