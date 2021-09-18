@@ -33,7 +33,8 @@ Bytepress is used for when you want to compress your generated EXE file.
 ## Images
 When first opening:
 
-![image](https://user-images.githubusercontent.com/75084509/133696989-b6670012-0408-465e-b3a2-87ac7c000ed0.png)
+![image](https://user-images.githubusercontent.com/75084509/133868436-96cb805f-c296-4601-8739-77e1c8ff79fb.png)
+
 
 
 When selecting batch file & some options then pressing "Compile File":
