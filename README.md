@@ -13,12 +13,13 @@ Current version: 2.0
 + Hide console when EXE opened
 + Select icon for EXE
 ## Update Log
-9/16/2021
+9/17/2021
 ```
 + Updated UI
 + Fixed update checking
 + Improved batch parsing
 + Added batch obfuscation (2 methods)
++ Fixed minor issues
 ```
 
 ## Dependencies
