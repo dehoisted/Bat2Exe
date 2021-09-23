@@ -22,14 +22,6 @@ Current version: 2.0
 + Fixed minor issues
 ```
 
-## Dependencies
-All Bat2Exe needs is .NET Framework 4, and GunaUI2.
-
-Guna is used for most of the user interface.                                                                                     
-Bytepress is used for when you want to compress your generated EXE file.
-+ Guna: https://www.nuget.org/packages/Guna.UI2.WinForms/                                                               
-+ Bytepress: https://github.com/roachadam/bytepress/releases/tag/v1.0.0.2
-
 ## Images
 When first opening:
 
@@ -41,3 +33,12 @@ When selecting batch file & some options then pressing "Compile File":
 
 ![image](https://user-images.githubusercontent.com/75084509/133697306-d06b5a82-0c6b-4f0c-93a4-baf44cfe934c.png)
 
+## Build
+First, download the ZIP file of all code on this repository [here](https://github.com/dehoisted/Bat2Exe/archive/refs/heads/main.zip).
+### Dependencies
+All Bat2Exe needs is .NET Framework 4, Winforms desktop development SDK, and GunaUI2.
+
+Guna is used for most of the user interface.                                                                                     
+Bytepress is used for when you want to compress your generated EXE file.
++ Guna: https://www.nuget.org/packages/Guna.UI2.WinForms/                                                               
++ Bytepress: https://github.com/roachadam/bytepress/releases/tag/v1.0.0.2
