@@ -160,20 +160,15 @@ namespace Bat2Exe
 		private string M2()
 		{
 			string code = "";
-			int tempL = this.random_str_length;
-			Random random = new Random();
-			checked
-			{
+			checked {
 				int max = 1;
 				int len = Strings.Len(this.batch_code);
 				for (int k = max; k <= len; k++)
-				{
-					this.random_str_length = random.Next(3, 10);
-					code = Conversions.ToString(Operators.ConcatenateObject(code, Operators.AddObject(Strings.Mid(this.batch_code, k, 1), Operators.AddObject(Operators.AddObject("%", this.RandomStr()), "%"))));
-				}
+					code = Conversions.ToString(Operators.ConcatenateObject(code,
+						Operators.AddObject(Strings.Mid(this.batch_code, k, 1),
+						Operators.AddObject(Operators.AddObject("%", 
+						this.RandomStr()), "%"))));
 			}
-
-			this.random_str_length = tempL;
 			return code;
 		}
 
