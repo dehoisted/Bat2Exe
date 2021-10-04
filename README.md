@@ -19,7 +19,7 @@ Current version: 2.0
 + Fixed update checking
 + Improved batch parsing
 + Added batch obfuscation (2 methods)
-+ Fixed minor issues
++ Fixed other minor issues
 ```
 
 ## Images
