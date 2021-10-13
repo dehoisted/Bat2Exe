@@ -42,3 +42,6 @@ Guna is used for most of the user interface.
 Bytepress is used for when you want to compress your generated EXE file.
 + Guna: https://www.nuget.org/packages/Guna.UI2.WinForms/                                                               
 + Bytepress: https://github.com/roachadam/bytepress/releases/tag/v1.0.0.2
+
+## Issues
+If you have any problems or suggestions for Bat2Exe then make an issue [here](https://github.com/dehoisted/Bat2Exe/issues).
