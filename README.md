@@ -23,7 +23,8 @@ Current version: 2.1
 ## Images
 When first opening:
 
-![image](https://user-images.githubusercontent.com/75084509/133868436-96cb805f-c296-4601-8739-77e1c8ff79fb.png)
+![image](https://user-images.githubusercontent.com/75084509/142293194-36499183-9e92-4f69-b0e3-cfbbfc537766.png)
+
 
 
 
