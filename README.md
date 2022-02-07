@@ -13,7 +13,7 @@ Current version: **2.1**
 + Hide console when EXE opened
 + Select icon for EXE
 ## Update Log
-11/17/2021
+November 17, 2021
 ```
 + Added batch script encoding option (BOM)
 + Improved update checking
